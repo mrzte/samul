@@ -1,0 +1,29 @@
+
+/* font-family ProductSans */
+@font-face{
+    font-family: ProductSans;
+    src: url(../fonts/ProductSans-Medium.ttf);
+}
+
+@font-face{
+    font-family: ProductSansBold;
+    src: url(../fonts/ProductSans-Bold.ttf);
+}
+
+/* font-family Lato */
+@font-face{
+    font-family: Lato;
+    src: url(../fonts/Lato-Regular.ttf);
+}
+
+/* font-family Beladda */
+@font-face{
+    font-family: Belada;
+    src: url(../fonts/belada.ttf);
+}
+
+/* font-family cherio */
+@font-face{
+    font-family: Cherio;
+    src: url(../fonts/Cherio.ttf);
+}
